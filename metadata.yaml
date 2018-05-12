@@ -1,0 +1,45 @@
+_repo: The-Talking-Beasts--A-Book-of-Fable-Wisdom_13815
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editors:
+  - agent_name: Smith, Nora Archibald
+    birthdate: 1859
+    deathdate: 1934
+    gutenberg_agent_id: '8693'
+    url: http://www.gutenberg.org/2009/agents/8693
+    wikipedia: http://en.wikipedia.org/wiki/Nora_Archibald_Smith
+  - agent_name: Wiggin, Kate Douglas Smith
+    aliases:
+    - Riggs, George Christopher, Mrs.
+    - Riggs, Kate Douglas Smith Wiggin
+    - Wiggin, Samuel Bradley, Mrs.
+    - Smith, Kate Douglas
+    birthdate: 1856
+    deathdate: 1923
+    gutenberg_agent_id: '266'
+    url: http://www.gutenberg.org/2009/agents/266
+    wikipedia: http://en.wikipedia.org/wiki/Kate_Douglas_Wiggin
+description: Illustrations by Harold Nelson not included in this PG edition
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2004-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13815'
+language: en
+publication_note: '[S.l. :  s.n.],  1922'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fables'
+- !lcc 'PZ'
+tableOfContents: Fables of Aesop. (Greek) -- Fables of Bidpai. (Indian) -- Fables
+  from the Hitopadesa. (Sanskrit) -- Fables from P.V. Ramaswami Raju. (Indian) --
+  Malayan fables -- Moorish fables -- African fables -- Fables from Krilof. (Russian)
+  -- Fables from the Chinese -- Fables of La Fontaine. (French) -- Fables from the
+  Spanish of Carlos Yriarte -- Fables of Gay, Cowper and others. (English)
+title: 'The Talking Beasts: A Book of Fable Wisdom'
+url: http://www.gutenberg.org/ebooks/13815
